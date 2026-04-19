@@ -1,24 +1,24 @@
 # RNA-seq Gene Expression Analysis
 
-## Description
+## Descripción
 
 El objetivo de este trabajo es analizar la expresión genética a través del uso de datos de secuenciación RNA_seq.
 
-## Objectives
+## Objetivos
 
 - Procesar datos RNA_seq 
 - Realizar control de calidad
 - Analizar expresión génica
 - Generar resultados reproducibles
 
-## Project structure
+## Estructura del trabajo
 data/        > Datos de entrada
 scripts/     > Scripts de análisis
 results/     > Resultados
 notebooks    > Análisis exploratorio
 docs/        > Documentación
 
-## Requirements
+## Requisistos
 
 - Python
 - R
