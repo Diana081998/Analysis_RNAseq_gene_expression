@@ -1,0 +1,6 @@
+RNA_seq Analysus Results
+
+Dataset: GSE57763
+Organism: Homo sapiens
+
+Este archivo almacenará los resultados resumidos del análisis de expresión génica.
